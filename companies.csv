@@ -1,0 +1,594 @@
+Symbol,Name,Sector
+WHR,Whirlpool Corporation,Consumer Durables
+SLB,Schlumberger N.V.,Energy
+HON,Honeywell International Inc.,Capital Goods
+SYY,Sysco Corporation,Consumer Non-Durables
+PM,Philip Morris International Inc,Consumer Non-Durables
+T,AT&T Inc.,Public Utilities
+DUK,Duke Energy Corporation,Public Utilities
+DHR,Danaher Corporation,Capital Goods
+CACI,"CACI International, Inc.",Technology
+SWX,"Southwest Gas Holdings, Inc.",Public Utilities
+AMOV,"America Movil, S.A.B. de C.V.",Public Utilities
+NKTR,Nektar Therapeutics,Health Care
+WEC,"WEC Energy Group, Inc.",Public Utilities
+FE,FirstEnergy Corp.,Public Utilities
+VGR,Vector Group Ltd.,Consumer Non-Durables
+CMS,CMS Energy Corporation,Public Utilities
+GE,General Electric Company,Energy
+LMT,Lockheed Martin Corporation,Capital Goods
+OXY,Occidental Petroleum Corporation,Energy
+PNW,Pinnacle West Capital Corporation,Public Utilities
+CVS,CVS Health Corporation,Health Care
+WY,Weyerhaeuser Company,Consumer Services
+EPAY,"Bottomline Technologies, Inc.",Technology
+UVV,Universal Corporation,Consumer Services
+EMR,Emerson Electric Company,Energy
+MRO,Marathon Oil Corporation,Energy
+CRC,California Resources Corporation,Energy
+GATX,GATX Corporation,Consumer Services
+EPD,Enterprise Products Partners L.P.,Public Utilities
+RBA,Ritchie Bros. Auctioneers Incorporated,Miscellaneous
+CBT,Cabot Corporation,Basic Industries
+PSX,Phillips 66,Energy
+EFX,"Equifax, Inc.",Finance
+XOM,Exxon Mobil Corporation,Energy
+QCOM,QUALCOMM Incorporated,Technology
+CSX,CSX Corporation,Transportation
+HAL,Halliburton Company,Energy
+LB,"L Brands, Inc.",Consumer Services
+UFS,Domtar Corporation,Basic Industries
+HES,Hess Corporation,Energy
+CHDN,"Churchill Downs, Incorporated",Consumer Services
+UNH,UnitedHealth Group Incorporated,Health Care
+MMC,"Marsh & McLennan Companies, Inc.",Finance
+TOT,Total S.A.,Energy
+BAX,Baxter International Inc.,Health Care
+NAV,Navistar International Corporation,Capital Goods
+SEE,Sealed Air Corporation,Basic Industries
+PRGO,Perrigo Company,Health Care
+AEE,Ameren Corporation,Public Utilities
+COP,ConocoPhillips,Energy
+DNR,Denbury Resources Inc.,Energy
+ES,Eversource Energy,Public Utilities
+XEL,Xcel Energy Inc.,Public Utilities
+AA,Alcoa Corporation,Basic Industries
+PFE,"Pfizer, Inc.",Health Care
+PBI,Pitney Bowes Inc.,Miscellaneous
+RIO,Rio Tinto Plc,Basic Industries
+NI,"NiSource, Inc",Public Utilities
+MSFT,Microsoft Corporation,Technology
+GM,General Motors Company,Capital Goods
+SANM,Sanmina Corporation,Technology
+CCL,Carnival Corporation,Consumer Services
+LYB,LyondellBasell Industries NV,Basic Industries
+INGR,Ingredion Incorporated,Consumer Non-Durables
+GLP,Global Partners LP,Energy
+VC,Visteon Corporation,Capital Goods
+NWE,NorthWestern Corporation,Public Utilities
+NBR,Nabors Industries Ltd.,Energy
+CNSL,"Consolidated Communications Holdings, Inc.",Public Utilities
+ETN,"Eaton Corporation, PLC",Technology
+ABBV,AbbVie Inc.,Health Care
+AVY,Avery Dennison Corporation,Consumer Durables
+AON,Aon plc,Finance
+DE,Deere & Company,Capital Goods
+WPP,WPP plc,Technology
+RIG,Transocean Ltd.,Energy
+VZ,Verizon Communications Inc.,Public Utilities
+ETR,Entergy Corporation,Public Utilities
+APD,"Air Products and Chemicals, Inc.",Basic Industries
+KSU,Kansas City Southern,Transportation
+EIX,Edison International,Public Utilities
+DTE,DTE Energy Company,Public Utilities
+NE,Noble Corporation,Energy
+MU,"Micron Technology, Inc.",Technology
+VOD,Vodafone Group Plc,Public Utilities
+MLM,"Martin Marietta Materials, Inc.",Basic Industries
+MAS,Masco Corporation,Capital Goods
+ENR,"Energizer Holdings, Inc.",Miscellaneous
+MO,Altria Group,Consumer Non-Durables
+AMGN,Amgen Inc.,Health Care
+EQT,EQT Corporation,Energy
+TGT,Target Corporation,Consumer Services
+MDT,Medtronic plc,Health Care
+CHK,Chesapeake Energy Corporation,Energy
+CL,Colgate-Palmolive Company,Consumer Non-Durables
+JBL,Jabil Inc.,Technology
+WCN,"Waste Connections, Inc.",Public Utilities
+ACHC,"Acadia Healthcare Company, Inc.",Health Care
+ABB,ABB Ltd,Consumer Durables
+BCE,"BCE, Inc.",Public Utilities
+TUP,Tupperware Brands Corporation,Consumer Non-Durables
+K,Kellogg Company,Consumer Non-Durables
+MYL,Mylan N.V.,Health Care
+PNR,Pentair plc.,Technology
+PH,Parker-Hannifin Corporation,Capital Goods
+GPN,Global Payments Inc.,Miscellaneous
+TIF,Tiffany & Co.,Consumer Services
+IEX,IDEX Corporation,Capital Goods
+EXC,Exelon Corporation,Public Utilities
+RYN,Rayonier Inc.,Consumer Services
+NSC,Norfolk Southern Corporation,Transportation
+OTEX,Open Text Corporation,Technology
+E,ENI S.p.A.,Energy
+LEN,Lennar Corporation,Basic Industries
+RAD,Rite Aid Corporation,Health Care
+D,"Dominion Energy, Inc.",Public Utilities
+XRX,Xerox Holdings Corporation,Technology
+THC,Tenet Healthcare Corporation,Health Care
+DVA,DaVita Inc.,Health Care
+UGI,UGI Corporation,Public Utilities
+ENDP,Endo International plc,Health Care
+CMI,Cummins Inc.,Energy
+MSCI,MSCI Inc,Miscellaneous
+FDX,FedEx Corporation,Transportation
+VLO,Valero Energy Corporation,Energy
+CRS,Carpenter Technology Corporation,Basic Industries
+JNJ,Johnson & Johnson,Health Care
+IP,International Paper Company,Basic Industries
+DOV,Dover Corporation,Technology
+CAT,"Caterpillar, Inc.",Capital Goods
+UNP,Union Pacific Corporation,Transportation
+CHH,"Choice Hotels International, Inc.",Consumer Services
+AXL,"American Axle & Manufacturing Holdings, Inc.",Capital Goods
+KMB,Kimberly-Clark Corporation,Consumer Durables
+X,United States Steel Corporation,Basic Industries
+ORCL,Oracle Corporation,Technology
+SYK,Stryker Corporation,Health Care
+SRE,Sempra Energy,Public Utilities
+RRD,R.R. Donnelley & Sons Company,Miscellaneous
+TAC,TransAlta Corporation,Public Utilities
+MUR,Murphy Oil Corporation,Energy
+CVA,Covanta Holding Corporation,Basic Industries
+ENB,Enbridge Inc,Energy
+LH,Laboratory Corporation of America Holdings,Health Care
+MGM,MGM Resorts International,Consumer Services
+XEC,Cimarex Energy Co,Energy
+MCK,McKesson Corporation,Health Care
+SWN,Southwestern Energy Company,Energy
+APA,Apache Corporation,Energy
+CLF,Cleveland-Cliffs Inc.,Basic Industries
+CSL,Carlisle Companies Incorporated,Basic Industries
+OMI,"Owens & Minor, Inc.",Health Care
+OGE,OGE Energy Corp,Public Utilities
+WLL,Whiting Petroleum Corporation,Energy
+TROX,Tronox Holdings plc,Basic Industries
+ALLE,Allegion plc,Consumer Services
+WU,Western Union Company (The),Miscellaneous
+EMN,Eastman Chemical Company,Basic Industries
+LAMR,Lamar Advertising Company,Consumer Services
+WDC,Western Digital Corporation,Technology
+FMC,FMC Corporation,Basic Industries
+CVX,Chevron Corporation,Energy
+ON,ON Semiconductor Corporation,Technology
+PVH,PVH Corp.,Consumer Non-Durables
+AMKR,"Amkor Technology, Inc.",Technology
+SPR,"Spirit Aerosystems Holdings, Inc.",Capital Goods
+WMB,"Williams Companies, Inc. (The)",Public Utilities
+ATKR,Atkore International Group Inc.,Miscellaneous
+RCII,Rent-A-Center Inc.,Technology
+JBLU,JetBlue Airways Corporation,Transportation
+ADM,Archer-Daniels-Midland Company,Consumer Non-Durables
+MOS,Mosaic Company (The),Basic Industries
+PPL,PPL Corporation,Public Utilities
+KEX,Kirby Corporation,Consumer Services
+BSX,Boston Scientific Corporation,Health Care
+SPWR,SunPower Corporation,Technology
+GD,General Dynamics Corporation,Capital Goods
+HDS,"HD Supply Holdings, Inc.",Consumer Services
+TEN,Tenneco Inc.,Capital Goods
+BAM,Brookfield Asset Management Inc,Consumer Services
+CTAS,Cintas Corporation,Consumer Non-Durables
+EE,El Paso Electric Company,Public Utilities
+NOC,Northrop Grumman Corporation,Capital Goods
+TKR,Timken Company (The),Capital Goods
+ANTM,"Anthem, Inc.",Health Care
+EC,Ecopetrol S.A.,Energy
+CCZ,Comcast Corporation,Consumer Services
+HPQ,HP Inc.,Technology
+KMT,Kennametal Inc.,Capital Goods
+BG,Bunge Limited,Consumer Non-Durables
+ORAN,Orange,Public Utilities
+HUBG,"Hub Group, Inc.",Transportation
+FIS,"Fidelity National Information Services, Inc.",Miscellaneous
+KTOS,"Kratos Defense & Security Solutions, Inc.",Capital Goods
+WLK,Westlake Chemical Corporation,Basic Industries
+SCCO,Southern Copper Corporation,Basic Industries
+TXT,Textron Inc.,Capital Goods
+BIIB,Biogen Inc.,Health Care
+SBUX,Starbucks Corporation,Consumer Services
+CLW,Clearwater Paper Corporation,Basic Industries
+WTI,"W&T Offshore, Inc.",Energy
+IRCP,IRSA Propiedades Comerciales S.A.,Consumer Services
+NFG,National Fuel Gas Company,Public Utilities
+AVA,Avista Corporation,Public Utilities
+CMP,"Compass Minerals International, Inc.",Basic Industries
+NWL,Newell Brands Inc.,Consumer Non-Durables
+EL,"Estee Lauder Companies, Inc. (The)",Consumer Non-Durables
+CNI,Canadian National Railway Company,Transportation
+GOLD,Barrick Gold Corporation,Basic Industries
+AUY,Yamana Gold Inc.,Basic Industries
+RS,Reliance Steel & Aluminum Co.,Basic Industries
+NUE,Nucor Corporation,Basic Industries
+VRSK,"Verisk Analytics, Inc.",Technology
+AVGO,Broadcom Inc.,Technology
+YRCW,"YRC Worldwide, Inc.",Transportation
+CCEP,Coca-Cola European Partners plc,Consumer Non-Durables
+PAA,"Plains All American Pipeline, L.P.",Energy
+DAR,Darling Ingredients Inc.,Consumer Non-Durables
+TGNA,TEGNA Inc.,Consumer Services
+DIS,Walt Disney Company (The),Consumer Services
+RSG,"Republic Services, Inc.",Public Utilities
+G,Genpact Limited,Consumer Services
+AGCO,AGCO Corporation,Capital Goods
+HCA,"HCA Healthcare, Inc.",Health Care
+FCX,"Freeport-McMoran, Inc.",Basic Industries
+FOE,Ferro Corporation,Basic Industries
+VSH,"Vishay Intertechnology, Inc.",Capital Goods
+NVDA,NVIDIA Corporation,Technology
+VFC,V.F. Corporation,Consumer Non-Durables
+FCN,"FTI Consulting, Inc.",Consumer Services
+ACCO,Acco Brands Corporation,Consumer Durables
+IBM,International Business Machines Corporation,Technology
+MT,ArcelorMittal,Basic Industries
+BAK,Braskem S.A.,Basic Industries
+AAPL,Apple Inc.,Technology
+AAL,"American Airlines Group, Inc.",Transportation
+SM,SM Energy Company,Energy
+CXO,Concho Resources Inc.,Energy
+DGX,Quest Diagnostics Incorporated,Health Care
+CENT,Central Garden & Pet Company,Consumer Durables
+EQR,Equity Residential,Consumer Services
+KW,Kennedy-Wilson Holdings Inc.,Finance
+CLX,Clorox Company (The),Consumer Durables
+PBFX,PBF Logistics LP,Energy
+LNT,Alliant Energy Corporation,Public Utilities
+EVC,Entravision Communications Corporation,Consumer Services
+PEP,"Pepsico, Inc.",Consumer Non-Durables
+DG,Dollar General Corporation,Consumer Services
+CPB,Campbell Soup Company,Consumer Non-Durables
+AMC,"AMC Entertainment Holdings, Inc.",Consumer Services
+OMC,Omnicom Group Inc.,Technology
+CLMT,"Calumet Specialty Products Partners, L.P.",Energy
+CLR,"Continental Resources, Inc.",Energy
+SPGI,S&P Global Inc.,Finance
+HST,"Host Hotels & Resorts, Inc.",Consumer Services
+ATI,Allegheny Technologies Incorporated,Basic Industries
+OLN,Olin Corporation,Basic Industries
+BLL,Ball Corporation,Consumer Durables
+OC,Owens Corning Inc,Capital Goods
+IAC,IAC/InterActiveCorp,Consumer Services
+DVN,Devon Energy Corporation,Energy
+CENX,Century Aluminum Company,Basic Industries
+TMO,Thermo Fisher Scientific Inc,Capital Goods
+SNA,Snap-On Incorporated,Capital Goods
+BWA,BorgWarner Inc.,Capital Goods
+LLY,Eli Lilly and Company,Health Care
+HLX,"Helix Energy Solutions Group, Inc.",Energy
+PAG,"Penske Automotive Group, Inc.",Consumer Durables
+ROCK,"Gibraltar Industries, Inc.",Capital Goods
+PHI,PLDT Inc.,Public Utilities
+GEL,"Genesis Energy, L.P.",Energy
+PCAR,PACCAR Inc.,Capital Goods
+BRFS,BRF S.A.,Consumer Non-Durables
+VMC,Vulcan Materials Company,Basic Industries
+TEL,TE Connectivity Ltd.,Technology
+BIDU,"Baidu, Inc.",Technology
+VRSN,"VeriSign, Inc.",Technology
+BZH,"Beazer Homes USA, Inc.",Capital Goods
+BMY,Bristol-Myers Squibb Company,Health Care
+HZN,Horizon Global Corporation,Capital Goods
+ATO,Atmos Energy Corporation,Public Utilities
+GIS,"General Mills, Inc.",Consumer Non-Durables
+CBB,Cincinnati Bell Inc,Public Utilities
+HSC,Harsco Corporation,Consumer Services
+JCI,Johnson Controls International plc,Consumer Services
+LYV,"Live Nation Entertainment, Inc.",Consumer Services
+ARCO,Arcos Dorados Holdings Inc.,Consumer Services
+GLW,Corning Incorporated,Basic Industries
+BKH,Black Hills Corporation,Public Utilities
+OTTR,Otter Tail Corporation,Public Utilities
+POL,PolyOne Corporation,Basic Industries
+CMC,Commercial Metals Company,Basic Industries
+SON,Sonoco Products Company,Consumer Durables
+SO,Southern Company (The),Public Utilities
+SHW,Sherwin-Williams Company (The),Consumer Services
+NM,Navios Maritime Holdings Inc.,Transportation
+NGL,NGL ENERGY PARTNERS LP,Energy
+TRGP,"Targa Resources, Inc.",Public Utilities
+CCLP,CSI Compressco LP,Energy
+CDK,"CDK Global, Inc.",Miscellaneous
+ITW,Illinois Tool Works Inc.,Technology
+MKL,Markel Corporation,Finance
+NS,Nustar Energy L.P.,Energy
+LKQ,LKQ Corporation,Consumer Services
+BTE,Baytex Energy Corp,Energy
+CR,Crane Co.,Capital Goods
+SSNC,"SS&C Technologies Holdings, Inc.",Technology
+DAN,Dana Incorporated,Capital Goods
+MMP,Magellan Midstream Partners L.P.,Energy
+CVE,Cenovus Energy Inc,Energy
+KMI,"Kinder Morgan, Inc.",Public Utilities
+DOOR,Masonite International Corporation,Basic Industries
+WWW,"Wolverine World Wide, Inc.",Consumer Non-Durables
+BECN,"Beacon Roofing Supply, Inc.",Consumer Services
+RRC,Range Resources Corporation,Energy
+WRB,W.R. Berkley Corporation,Finance
+JWN,"Nordstrom, Inc.",Consumer Services
+SCI,Service Corporation International,Consumer Services
+MTDR,Matador Resources Company,Energy
+LXU,Lsb Industries Inc.,Basic Industries
+FLS,Flowserve Corporation,Capital Goods
+FLR,Fluor Corporation,Basic Industries
+BC,Brunswick Corporation,Energy
+HSY,Hershey Company (The),Consumer Non-Durables
+BDC,Belden Inc,Basic Industries
+SLCA,"U.S. Silica Holdings, Inc.",Basic Industries
+TWI,"Titan International, Inc.",Basic Industries
+AMAT,"Applied Materials, Inc.",Technology
+CIEN,Ciena Corporation,Public Utilities
+ECL,Ecolab Inc.,Basic Industries
+FTS,Fortis Inc.,Public Utilities
+PXD,Pioneer Natural Resources Company,Energy
+LEA,Lear Corporation,Capital Goods
+TEVA,Teva Pharmaceutical Industries Limited,Health Care
+IO,Ion Geophysical Corporation,Energy
+KRO,Kronos Worldwide Inc,Basic Industries
+EXPE,"Expedia Group, Inc.",Consumer Services
+BERY,"Berry Global Group, Inc.",Consumer Non-Durables
+ADT,ADT Inc.,Consumer Services
+BMRN,BioMarin Pharmaceutical Inc.,Health Care
+TXN,Texas Instruments Incorporated,Technology
+CTB,Cooper Tire & Rubber Company,Consumer Durables
+SUN,Sunoco LP,Energy
+SR,Spire Inc.,Public Utilities
+SPXC,SPX Corporation,Technology
+TER,"Teradyne, Inc.",Capital Goods
+AWR,American States Water Company,Public Utilities
+PRAH,"PRA Health Sciences, Inc.",Health Care
+CZR,Caesars Entertainment Corporation,Consumer Services
+YUM,"Yum! Brands, Inc.",Consumer Services
+JBHT,"J.B. Hunt Transport Services, Inc.",Transportation
+HEP,"Holly Energy Partners, L.P.",Energy
+CCI,Crown Castle International Corporation,Consumer Services
+ALB,Albemarle Corporation,Basic Industries
+WBA,"Walgreens Boots Alliance, Inc.",Health Care
+VMI,"Valmont Industries, Inc.",Capital Goods
+FCAU,Fiat Chrysler Automobiles N.V.,Capital Goods
+UNIT,Uniti Group Inc.,Consumer Services
+MMM,3M Company,Health Care
+KGC,Kinross Gold Corporation,Basic Industries
+LPX,Louisiana-Pacific Corporation,Basic Industries
+HRL,Hormel Foods Corporation,Consumer Non-Durables
+HFC,HollyFrontier Corporation,Energy
+OSB,Norbord Inc.,Basic Industries
+EBAY,eBay Inc.,Miscellaneous
+BAH,Booz Allen Hamilton Holding Corporation,Consumer Services
+MPLX,MPLX LP,Energy
+EPR,EPR Properties,Consumer Services
+OII,"Oceaneering International, Inc.",Energy
+QEP,"QEP Resources, Inc.",Energy
+CSGS,"CSG Systems International, Inc.",Technology
+FL,"Foot Locker, Inc.",Consumer Services
+OAS,Oasis Petroleum Inc.,Energy
+SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,Technology
+AIN,Albany International Corporation,Basic Industries
+CLGX,"CoreLogic, Inc.",Technology
+MHK,"Mohawk Industries, Inc.",Consumer Durables
+BKD,Brookdale Senior Living Inc.,Health Care
+ZBRA,Zebra Technologies Corporation,Technology
+CP,Canadian Pacific Railway Limited,Transportation
+CVGI,"Commercial Vehicle Group, Inc.",Capital Goods
+EPC,Edgewell Personal Care,Consumer Non-Durables
+CF,"CF Industries Holdings, Inc.",Basic Industries
+DAL,"Delta Air Lines, Inc.",Transportation
+NGD,New Gold Inc.,Basic Industries
+INTU,Intuit Inc.,Technology
+TRN,"Trinity Industries, Inc.",Capital Goods
+BW,Babcock,Capital Goods
+CHE,Chemed Corp.,Health Care
+NCR,NCR Corporation,Miscellaneous
+IGT,International Game Technology,Consumer Services
+NUAN,"Nuance Communications, Inc.",Technology
+NRG,"NRG Energy, Inc.",Public Utilities
+TFX,Teleflex Incorporated,Health Care
+AES,The AES Corporation,Basic Industries
+TEX,Terex Corporation,Capital Goods
+AMCX,AMC Networks Inc.,Consumer Services
+NRP,Natural Resource Partners LP,Energy
+BA,Boeing Company (The),Capital Goods
+MAN,ManpowerGroup,Technology
+GLDD,Great Lakes Dredge & Dock Corporation,Basic Industries
+KEYS,Keysight Technologies Inc.,Capital Goods
+NFLX,"Netflix, Inc.",Consumer Services
+TGI,"Triumph Group, Inc.",Capital Goods
+R,"Ryder System, Inc.",Consumer Services
+WNC,Wabash National Corporation,Capital Goods
+CEVA,"CEVA, Inc.",Technology
+OSK,Oshkosh Corporation,Capital Goods
+H,Hyatt Hotels Corporation,Consumer Services
+WRK,Westrock Company,Consumer Durables
+RYI,Ryerson Holding Corporation,Basic Industries
+INTC,Intel Corporation,Technology
+ENIA,Enel Americas S.A.,Public Utilities
+SAH,"Sonic Automotive, Inc.",Consumer Durables
+BEP,Brookfield Renewable Partners L.P.,Public Utilities
+ADSW,"Advanced Disposal Services, Inc.",Public Utilities
+ZTS,Zoetis Inc.,Health Care
+PSXP,Phillips 66 Partners LP,Energy
+LRCX,Lam Research Corporation,Technology
+STM,STMicroelectronics N.V.,Technology
+CMCO,Columbus McKinnon Corporation,Capital Goods
+CAH,"Cardinal Health, Inc.",Health Care
+SSP,E.W. Scripps Company (The),Consumer Services
+PGR,Progressive Corporation (The),Finance
+UPS,"United Parcel Service, Inc.",Transportation
+GME,Gamestop Corporation,Consumer Services
+BLDR,"Builders FirstSource, Inc.",Consumer Services
+CKH,"SEACOR Holdings, Inc.",Transportation
+ACM,AECOM,Consumer Services
+GHC,Graham Holdings Company,Consumer Services
+FLEX,Flex Ltd.,Technology
+HBI,Hanesbrands Inc.,Consumer Services
+USM,United States Cellular Corporation,Public Utilities
+ACIW,"ACI Worldwide, Inc.",Technology
+RPM,RPM International Inc.,Basic Industries
+AMAG,"AMAG Pharmaceuticals, Inc.",Health Care
+TPC,Tutor Perini Corporation,Basic Industries
+ACN,Accenture plc,Miscellaneous
+HRC,Hill-Rom Holdings Inc,Health Care
+ERJ,Embraer S.A.,Capital Goods
+DCP,DCP Midstream LP,Public Utilities
+TPX,"Tempur Sealy International, Inc.",Consumer Durables
+CRK,"Comstock Resources, Inc.",Energy
+POST,"Post Holdings, Inc.",Consumer Non-Durables
+ASNA,"Ascena Retail Group, Inc.",Consumer Services
+CCOI,"Cogent Communications Holdings, Inc.",Consumer Services
+Y,Alleghany Corporation,Finance
+FTI,TechnipFMC plc,Energy
+EGO,Eldorado Gold Corporation,Basic Industries
+IRM,Iron Mountain Incorporated,Consumer Services
+HLT,Hilton Worldwide Holdings Inc.,Consumer Services
+AXTA,Axalta Coating Systems Ltd.,Basic Industries
+BBBY,Bed Bath & Beyond Inc.,Consumer Services
+UIS,Unisys Corporation,Technology
+LEU,Centrus Energy Corp.,Basic Industries
+MTX,Minerals Technologies Inc.,Basic Industries
+LPI,"Laredo Petroleum, Inc.",Energy
+AR,Antero Resources Corporation,Energy
+MPC,Marathon Petroleum Corporation,Energy
+GFF,Griffon Corporation,Capital Goods
+PKG,Packaging Corporation of America,Consumer Durables
+L,Loews Corporation,Finance
+SLGN,Silgan Holdings Inc.,Consumer Durables
+HUM,Humana Inc.,Health Care
+DLX,Deluxe Corporation,Consumer Durables
+LII,"Lennox International, Inc.",Capital Goods
+NOK,Nokia Corporation,Technology
+ITT,ITT Inc.,Capital Goods
+MERC,Mercer International Inc.,Basic Industries
+COST,Costco Wholesale Corporation,Consumer Services
+WM,"Waste Management, Inc.",Public Utilities
+RDN,Radian Group Inc.,Finance
+CAG,"ConAgra Brands, Inc.",Consumer Non-Durables
+CFX,Colfax Corporation,Capital Goods
+VIV,Telefonica Brasil S.A.,Public Utilities
+ENS,Enersys,Consumer Non-Durables
+PDCE,"PDC Energy, Inc.",Energy
+BYD,Boyd Gaming Corporation,Consumer Services
+CPAC,Cementos Pacasmayo S.A.A.,Capital Goods
+MBI,"MBIA, Inc.",Finance
+BP,BP p.l.c.,Energy
+VIAV,Viavi Solutions Inc.,Technology
+GCP,GCP Applied Technologies Inc.,Basic Industries
+SMTC,Semtech Corporation,Technology
+INFO,IHS Markit Ltd.,Technology
+MDCA,MDC Partners Inc.,Technology
+CLH,"Clean Harbors, Inc.",Basic Industries
+SGU,"Star Group, L.P.",Consumer Services
+PEG,Public Service Enterprise Group Incorporated,Public Utilities
+HCHC,"HC2 Holdings, Inc.",Capital Goods
+CE,Celanese Corporation,Basic Industries
+DISH,DISH Network Corporation,Consumer Services
+APH,Amphenol Corporation,Capital Goods
+EAT,"Brinker International, Inc.",Consumer Services
+NEU,NewMarket Corporation,Basic Industries
+GPI,"Group 1 Automotive, Inc.",Consumer Durables
+SGMS,Scientific Games Corp,Technology
+SALM,"Salem Media Group, Inc.",Consumer Services
+XIN,Xinyuan Real Estate Co Ltd,Basic Industries
+AMD,"Advanced Micro Devices, Inc.",Technology
+MTG,MGIC Investment Corporation,Finance
+CRL,"Charles River Laboratories International, Inc.",Health Care
+LVS,Las Vegas Sands Corp.,Consumer Services
+SEM,Select Medical Holdings Corporation,Health Care
+LSCC,Lattice Semiconductor Corporation,Technology
+EQIX,"Equinix, Inc.",Consumer Services
+CNC,Centene Corporation,Health Care
+ALGT,Allegiant Travel Company,Transportation
+TTC,Toro Company (The),Capital Goods
+TECD,Tech Data Corporation,Technology
+STLD,"Steel Dynamics, Inc.",Basic Industries
+GOOG,Alphabet Inc.,Technology
+V,Visa Inc.,Miscellaneous
+COTY,Coty Inc.,Consumer Non-Durables
+GPOR,Gulfport Energy Corporation,Energy
+UHS,"Universal Health Services, Inc.",Health Care
+FTV,Fortive Corporation,Capital Goods
+GOGO,Gogo Inc.,Consumer Services
+WAB,Westinghouse Air Brake Technologies Corporation,Capital Goods
+XYL,Xylem Inc.,Capital Goods
+SJM,J.M. Smucker Company (The),Consumer Non-Durables
+RFP,Resolute Forest Products Inc.,Basic Industries
+ALV,"Autoliv, Inc.",Capital Goods
+CATM,Cardtronics plc,Miscellaneous
+MTSC,MTS Systems Corporation,Capital Goods
+OEC,Orion Engineered Carbons S.A,Basic Industries
+HII,"Huntington Ingalls Industries, Inc.",Capital Goods
+TRS,TriMas Corporation,Capital Goods
+EW,Edwards Lifesciences Corporation,Health Care
+BGG,Briggs & Stratton Corporation,Energy
+EXP,Eagle Materials Inc,Capital Goods
+XRAY,DENTSPLY SIRONA Inc.,Health Care
+BTI,British American Tobacco p.l.c.,Consumer Non-Durables
+ALKS,Alkermes plc,Health Care
+SMG,Scotts Miracle-Gro Company (The),Basic Industries
+UGP,Ultrapar Participacoes S.A.,Public Utilities
+TRMB,Trimble Inc.,Capital Goods
+AT,Atlantic Power Corporation,Energy
+RLI,RLI Corp.,Finance
+HNGR,"Hanger, Inc.",Health Care
+MMLP,Martin Midstream Partners L.P.,Energy
+EA,Electronic Arts Inc.,Technology
+MGA,"Magna International, Inc.",Capital Goods
+AWI,Armstrong World Industries Inc,Consumer Non-Durables
+ABG,Asbury Automotive Group Inc,Consumer Durables
+NX,Quanex Building Products Corporation,Capital Goods
+CSIQ,Canadian Solar Inc.,Technology
+SABR,Sabre Corporation,Technology
+MA,Mastercard Incorporated,Miscellaneous
+HXL,Hexcel Corporation,Basic Industries
+RCL,Royal Caribbean Cruises Ltd.,Consumer Services
+NYT,New York Times Company (The),Consumer Services
+HPE,Hewlett Packard Enterprise Company,Technology
+ICLR,ICON plc,Health Care
+NXPI,NXP Semiconductors N.V.,Technology
+GPRE,"Green Plains, Inc.",Basic Industries
+MX,MagnaChip Semiconductor Corporation,Technology
+HL,Hecla Mining Company,Basic Industries
+PED,Pedevco Corp.,Energy
+SIG,Signet Jewelers Limited,Consumer Services
+VSTO,Vista Outdoor Inc.,Capital Goods
+KRA,Kraton Corporation,Basic Industries
+VRNT,Verint Systems Inc.,Technology
+GTN,"Gray Television, Inc.",Consumer Services
+PYPL,"PayPal Holdings, Inc.",Miscellaneous
+BR,"Broadridge Financial Solutions, Inc.",Miscellaneous
+ETM,Entercom Communications Corp.,Consumer Services
+PRA,ProAssurance Corporation,Finance
+KODK,Eastman Kodak Company,Miscellaneous
+SCS,Steelcase Inc.,Consumer Durables
+ENTG,"Entegris, Inc.",Consumer Non-Durables
+FISV,"Fiserv, Inc.",Technology
+FANG,"Diamondback Energy, Inc.",Energy
+NBL,Noble Energy Inc.,Energy
+BIO,"Bio-Rad Laboratories, Inc.",Capital Goods
+PRAA,"PRA Group, Inc.",Finance
+CDNS,"Cadence Design Systems, Inc.",Technology
+PTC,PTC Inc.,Technology
+SRCL,"Stericycle, Inc.",Basic Industries
+VVV,Valvoline Inc.,Basic Industries
+KOS,Kosmos Energy Ltd.,Energy
+KOP,Koppers Holdings Inc.,Basic Industries
+STX,Seagate Technology PLC,Technology
+MANT,ManTech International Corporation,Consumer Services
+NOG,"Northern Oil and Gas, Inc.",Energy
+IRS,IRSA Inversiones Y Representaciones S.A.,Consumer Services
+IT,"Gartner, Inc.",Consumer Services
+SBAC,SBA Communications Corporation,Consumer Services
+XPER,Xperi Holding Corporation,Technology
+IMO,Imperial Oil Limited,Energy
+NVR,"NVR, Inc.",Capital Goods
+KALU,Kaiser Aluminum Corporation,Capital Goods
+CRESY,Cresud S.A.C.I.F. y A.,Finance
