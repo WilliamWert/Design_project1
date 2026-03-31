@@ -8,15 +8,15 @@ This repository contains the complete DS 4320 Project 1 submission. The project 
 
 **NetID:** dxg9tt
 
-**DOI:** `[PLACEHOLDER — create at zenodo.org, upload repo zip, paste DOI here e.g. 10.5281/zenodo.XXXXXXX]`
+**DOI:** `[]`
 
 **Press Release:** [press_release.md](press_release.md)
 
-**Data:** [UVA OneDrive Data Folder](https://drive.google.com/drive/folders/1IdD1b9GgrpSuhCUiHo73ZsfqCC13qnVW?usp=sharing)
+**Data:** [UVA OneDrive Data Folder](https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=K8exiL)
 
 **Pipeline:** [pipeline.ipynb](pipeline.ipynb) · [pipeline.md](pipeline.md)
 
-**License:** MIT — see [LICENSE](LICENSE)
+**License:** [LICENSE](LICENSE)
 
 ---
 
