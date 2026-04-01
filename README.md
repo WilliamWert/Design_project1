@@ -76,13 +76,13 @@ This project sits at the intersection of quantitative finance, credit risk manag
 
 Background reading files are stored in the [project OneDrive folder](https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=sXAo77).
 
-| Title | Description | Link |
-|-------|-------------|------|
-| A Bibliometric Study on Intelligent Techniques of Bankruptcy Prediction for Corporate Firms | Comprehensive survey of bankruptcy prediction methods from Altman Z-score through modern ML, tracing the evolution of the field | [PMC6928309](https://pmc.ncbi.nlm.nih.gov/articles/PMC6928309/) |
-| Financial Distress Prediction Using Integrated Z-Score and Multilayer Perceptron Neural Networks | Empirical comparison of the Altman Z-score baseline against neural networks on financial ratio data | [PMC9675979](https://pmc.ncbi.nlm.nih.gov/articles/PMC9675979/) |
-| Detecting Conflicts of Interest in Credit Rating Changes: A Distribution Dynamics Approach | Quantitative analysis of rating agency incentive biases and delayed downgrades in the issuer-pay model | [SpringerOpen](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-021-00263-z) |
-| Datasets for Advanced Bankruptcy Prediction: A Survey and Taxonomy | Survey of publicly available datasets for corporate default prediction including feature descriptions and benchmarks | [arXiv:2411.01928](https://arxiv.org/html/2411.01928v1) |
-| Testing Conflicts of Interest at Bond Ratings Agencies | Federal Reserve empirical paper testing whether rating agency conflicts of interest produce systematically inflated ratings | [Federal Reserve](https://www.federalreserve.gov/pubs/feds/2003/200368/200368pap.pdf) |
+| Title | Description |
+|-------|-------------|
+| A Bibliometric Study on Intelligent Techniques of Bankruptcy Prediction for Corporate Firms | Comprehensive survey of bankruptcy prediction methods from Altman Z-score through modern ML, tracing the evolution of the field |
+| Financial Distress Prediction Using Integrated Z-Score and Multilayer Perceptron Neural Networks | Empirical comparison of the Altman Z-score baseline against neural networks on financial ratio data |
+| Detecting Conflicts of Interest in Credit Rating Changes: A Distribution Dynamics Approach | Quantitative analysis of rating agency incentive biases and delayed downgrades in the issuer-pay model |
+| Datasets for Advanced Bankruptcy Prediction: A Survey and Taxonomy | Survey of publicly available datasets for corporate default prediction including feature descriptions and benchmarks |
+| Testing Conflicts of Interest at Bond Ratings Agencies | Federal Reserve empirical paper testing whether rating agency conflicts of interest produce systematically inflated ratings |
 
 ---
 
