@@ -4,7 +4,7 @@
 
 This repository contains the complete DS 4320 Project 1 submission. The project addresses corporate bond default risk prediction: given 25 financial ratios derived from a company's balance sheet, income statement, and cash flow data, can a machine learning classifier predict the credit rating grade assigned by a rating agency — and can it do so without the conflict-of-interest that affects agency ratings? The dataset is the Kaggle Corporate Credit Rating dataset (2,029 rating observations for 593 publicly traded US companies from 5 rating agencies, 2014–2016), normalized into a four-table relational schema. Four classifiers are trained and evaluated (Logistic Regression, Random Forest, Gradient Boosting, K-Nearest Neighbors); the best models (Random Forest and Gradient Boosting) achieve approximately 51% macro-averaged F1 across 7 rating classes, well above the 14% random baseline. The full pipeline — data normalization, DuckDB loading, SQL feature engineering, model training, and publication-quality visualization — is documented in `pipeline.ipynb`.
 
-**Name:** Will
+**Name:** William Wert
 
 **NetID:** dxg9tt
 
@@ -12,7 +12,7 @@ This repository contains the complete DS 4320 Project 1 submission. The project 
 
 **Press Release:** [press_release.md](press_release.md)
 
-**Data:** [UVA OneDrive Data Folder]([https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=K8exiL](https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=sXAo77))
+**Data:** [UVA OneDrive Data Folder](https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=khsfhs)
 
 **Pipeline:** [pipeline.ipynb](pipeline.ipynb) · [pipeline.md](pipeline.md)
 
