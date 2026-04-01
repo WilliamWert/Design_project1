@@ -12,7 +12,7 @@ This repository contains the complete DS 4320 Project 1 submission. The project 
 
 **Press Release:** [press_release.md](press_release.md)
 
-**Data:** [UVA OneDrive Data Folder](https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=K8exiL)
+**Data:** [UVA OneDrive Data Folder]([https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=K8exiL](https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=sXAo77))
 
 **Pipeline:** [pipeline.ipynb](pipeline.ipynb) · [pipeline.md](pipeline.md)
 
@@ -74,7 +74,7 @@ This project sits at the intersection of quantitative finance, credit risk manag
 
 ### Background Readings
 
-Background reading files are stored in the [project OneDrive folder](https://drive.google.com/drive/folders/1IdD1b9GgrpSuhCUiHo73ZsfqCC13qnVW?usp=sharing).
+Background reading files are stored in the [project OneDrive folder](https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=sXAo77).
 
 | Title | Description | Link |
 |-------|-------------|------|
