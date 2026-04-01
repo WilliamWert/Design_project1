@@ -12,7 +12,7 @@ This repository contains the complete DS 4320 Project 1 submission. The project 
 
 **Press Release:** [press_release.md](press_release.md)
 
-**Data:** [UVA OneDrive Data Folder](https://myuva-my.sharepoint.com/:f:/r/personal/dxg9tt_virginia_edu/Documents/DS4320_project1?csf=1&web=1&e=khsfhs)
+**Data:** [UVA OneDrive Data Folder](https://myuva-my.sharepoint.com/:f:/g/personal/dxg9tt_virginia_edu/IgAHpnTba-X-Trud1TZDWY44ARDRxI37PFLqHGhRr7vc4XY?e=S0GoOx)
 
 **Pipeline:** [pipeline.ipynb](pipeline.ipynb) · [pipeline.md](pipeline.md)
 
