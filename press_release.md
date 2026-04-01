@@ -26,6 +26,6 @@ The pipeline uses four machine learning algorithms (Logistic Regression, Random 
 
 The chart below shows how three key financial ratios cleanly separate investment-grade bonds (BBB and above, shown in blue) from speculative-grade bonds (BB and below, shown in red). Higher-rated companies carry less debt relative to equity, maintain stronger liquidity, and deliver higher returns — the same signals the machine learning model learns to detect automatically.
 
-![Financial Ratios by Credit Rating](credit_rating_ratios.png)
+![Financial Ratios by Credit Rating](pipeline_results.png)
 
 *Source: Kaggle Corporate Credit Rating Dataset — 2,029 rating observations across 593 publicly traded US companies (2014–2016). Investment grade = BBB and above; Speculative grade = BB and below.*
