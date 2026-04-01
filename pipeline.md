@@ -1,7 +1,7 @@
 # DS 4320 Project 1: Predicting Corporate Credit Ratings from Financial Ratios
 ## Problem Solution Pipeline
 
-**Author:** Will &nbsp;|&nbsp; DS 4320 &nbsp;|&nbsp; Spring 2026
+**Author:** William Wert &nbsp;|&nbsp; DS 4320 &nbsp;|&nbsp; Spring 2026
 
 ---
 
