@@ -8,7 +8,7 @@ This repository contains the complete DS 4320 Project 1 submission. The project 
 
 **NetID:** dxg9tt
 
-**DOI:** `[]`
+**DOI:** `[10.5281/zenodo.19363237]`
 
 **Press Release:** [press_release.md](press_release.md)
 
